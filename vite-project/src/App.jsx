@@ -13,7 +13,7 @@ import PlaceOrder from './pages/PlaceOrder'
 import Cart from './pages/Cart'
 import Verify from './pages/Verify'
 import Footer from './components/Footer'
-import SearchBar from './components/Searchbar'
+import SearchBar from './components/SearchBar'
 import 'react-toastify/dist/ReactToastify.css';
 import { ToastContainer } from 'react-toastify'
 
